@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "name": "CC Business Hub v1.2",
+  "description": "Globalny port chrześcijańskich usług i firm. Znajdź rzetelnych partnerów podzielających Twoje wartości.",
+  "majorCapabilities": []
+}
